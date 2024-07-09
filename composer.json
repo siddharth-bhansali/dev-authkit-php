@@ -1,0 +1,21 @@
+{
+	"name": "integrationos/authkit-php",
+	"version": "1.0.0",
+	"type": "library",
+	"autoload": {
+		"psr-4": {
+			"IntegrationOS\\AuthKit\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "IntegrationOS",
+			"email": "dev@integrationos.com"
+		}
+	],
+	"require": {
+		"guzzlehttp/guzzle": "^7.8",
+		"ext-json": "*"
+	},
+	"license": "GPL-3.0-only"
+}
