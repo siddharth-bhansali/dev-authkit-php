@@ -1,5 +1,5 @@
 {
-	"name": "integrationos/authkit-php",
+	"name": "siddharthbhansali/authkit-php",
 	"version": "1.0.0",
 	"type": "library",
 	"autoload": {
